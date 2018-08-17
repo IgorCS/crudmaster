@@ -10,6 +10,8 @@ CodeIgniter 2.1.2
 
 http://codeigniter.com/download.php
 
+TESTES
+
 Código para .htaccess
 
 RewriteEngine On
